@@ -1,3 +1,8 @@
+This is an IDF port of atomic14's library - the original readme is pasted below.
+
+There are some differences which will be documented after the firmware issue with invoke() is corrected.
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # DIY Alexa With the ESP32 and Wit.AI
 
